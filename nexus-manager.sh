@@ -11,7 +11,7 @@ SESSION_NAME="nexus-prover"
 PROGRAM_DIR="$NEXUS_HOME/src/generated"
 ARCH=$(uname -m)
 OS=$(uname -s)
-REPO_BASE="https://github.com/nexus-xyz/network-api/raw/refs/tags/0.4.0/clients/cli"
+REPO_BASE="https://github.com/nexus-xyz/network-api/raw/refs/tags/0.4.1/clients/cli"
 
 setup_directories() {
     mkdir -p "$PROGRAM_DIR"
