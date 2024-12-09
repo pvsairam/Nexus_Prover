@@ -214,8 +214,6 @@ while true; do
             ;;
         6)
             echo -e "\n${GREEN}Thanks for using!${NC}"
-            echo -e "${YELLOW}Follow more tools on Twitter: ${NC}https://x.com/zerah_eth"
-            echo -e "${YELLOW}SOL Token Recycling Tool: ${NC}https://solback.app/\n"
             cleanup
             ;;
         *)
